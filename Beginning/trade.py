@@ -13,4 +13,3 @@ elif assest == "XAUUSD":
 else:
     print("Please retype the vaild answer")
 
-I 
